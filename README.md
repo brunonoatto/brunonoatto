@@ -15,7 +15,7 @@
 ![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![blog](https://img.shields.io/badge/React_Router_V6-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![blog](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![blog](https://img.shields.io/badge/Tailwind-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![blog](https://img.shields.io/badge/Tailwind-323330?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 
 ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunonoatto&layout=compact)]
