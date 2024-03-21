@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-iserhardt-17952822/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunonoatto)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://bruno-noatto.vercel.app/)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunonoatto&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/brunonoatto)
 
